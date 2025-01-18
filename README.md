@@ -92,4 +92,5 @@
     mysql-3   1/1     Running   0          79s
     mysql-4   1/1     Running   0          76s
    ```
+   Zgodnie z założeniami zostału utworzone nowe pody z kolejnymi indeksami tworzącymi unikalne nazwy
 ---
